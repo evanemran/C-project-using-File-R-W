@@ -1,0 +1,32 @@
+1:Huawei:China:Honor 9:Nougat:5.1:Octa-core:Mali G71:6.0:128:256:8.0:20.0:3200:155.0:41500:20:2
+2:Huawei:China:Y3:Marshmallow:5.0:MTK:Mali:1.0:8:128:2.0:8.0:2200:175.0:8790:12:3
+3:Huawei:China:P10:Nougat:5.1:octa-core:Mali-G71 MP8:4.0:64:256:8.0:20.0:3200:145.0:56900:15:2
+4:Huawei:china:GR5:Nougat:5.5:Octa-core:Mali-T830MP2:3.0:32:256:8.0:12.0:3340:162.0:21900:18:1
+5:Huawei:China:Mate 8:Nougat:6.0:Quad-core:Mali-T880 MP4:4.0:64:128:8.0:16.0:4000:185.0:49990:14:2
+6:Huawei:China:P9:Nougat:5.2:Quad-core:Mali-T880 MP4:3.0:32:256:8.0:12.0:3000:144.0:47990:14:2
+7:Huawei:China:Y6:Lollipop:5.0:Snapdragon 210:Adreno 304:2.0:8:32:2.0:8.0:2200:125.0:10990:13:4
+8:Huawei:China:Honor 4:Marshmallow:5.5:Snapdragon 410:Mali-450MP4 & Adreno 306:2.0:8:32:8.0:13.0:3000:165.0:12990:7:2
+9:Huawei:China:P8:Marshmallow:5.2:Octa-core:Mali-T628 MP4:3.0:64:256:8.0:13.0:2680:144.0:49990:8:1
+10:Huawei:China:Honor 3:Jelly Bean:5.0:Quad-core: Mali-400MP2:2.0:8:32:5.0:8.0:2300:140.0:19500:12:1
+
+11:Samsung:Korea:J7:Marshmallow:5.5:Octa-core: Adreno 405 & Mali-T720MP2:1.5:16:256:5.0:13.0: 3000:171:18900:10:2
+12:Samsung:Korea:J2:Lollipop:4.7:Quad-core : Mali-400MP2:1.0:8:256:2.0:5.0:2000:129:12990:8:2
+13:Samsung:Korea:A7:Marshmallow.1:5.7:octa-core:Mali-T830MP3:3.0:32:256:5.0:13.0:3300:186:32900:5:3
+14:Samsung:Korea:A5:Marshmallow.1:5.2:Snapdragon 410:Mali-T720MP2 & Adreno 405:2.0:16:256:5.0:13.0:3100:159:26900:9:1
+15:Samsung:Korea:J3:Marshmallow:5.0:Quad-core:Mali-T720-J320A:2.0:16:256:5.0:8.0:2600:138:13990:4:2
+16:Samsung:Korea:S7 edge:Nougat:5.5:Snapdragon 820:Adreno 530:4.0:128:256:5.0:12.0:3600:157:64900:12:3
+17:Samsung:Korea:E7:Lollipop:5.5:Snapdragon410:Adreno 306:2.0:16:64:5.0:13.0:2950:141:29900:12:1
+18:Samsung:Korea:J1:Kitkat:4.3:Dual-core:mali-300:1.0:4:128:2.0:5.0:1850:122:8890:12:3
+19:Samsung:Korea:J2 17:Marshmallow:5.0: Quad-core:Mali-T720 MP2: 1.5:8:256:5.0:8.0:2600:160:11490:15:2
+20:Samsung:Korea:S8:Nougat:5.8:octa-core:Mali-G71 MP20:4.0:64:256:8.0:12.0:3000:155:78000:12:5
+
+21:Xiaomi:China:4x:Nougat:5.5:Octa-core:Adreno 505:3.0:32:128:5.0:13.0:4100:150:14900:50:3
+22:Iphone:China:7:iOS:4.7:Quad-core:PowerVR Series7XTPlus:2.0:256:0:7.0:12.0:1960:138:76900:30:3
+23:Htc:Taiwan:onex9:Nougat:5.5:Octa-core:PowerVR G6200:3.0:32:256:5.0:13.0:3000:170:25690:20:2
+24:Oneplus:Taiwan:3T:Nougat:5.5:Quad-core:Adreno 530:6.0:128:0:16.0:16.0:3400:158:38900:12:3
+25:Samsung:Korea:Tab4:kitkat:7.0:Quad-core:vivante gc1000:1.5:16:32:1.3:3.15:4000:276:24900:15:2
+26:Samsung:Korea:TabA8.0:Lollipop:8.0:Quad-core:Adreno 306:1.5:16:128:2.0:5.0:4200:320:32900:13:2
+27:Oppo:China:A37:Lollipop:5.0:Quad-core:Adreno 306:2.0:16:256:2.0:8.0:2630:136:14900:20:3
+28:Sony:China:XperiaX:Nougat:5.2:Quad-core:Adreno 530:3.0:64:256:13.0:23.0:2900:161:42990:25:4
+29:Htc:Taiwan:U11:Marshmallow:5.5:Snapdragon 410:Mali-450MP4 & Adreno 306:2.0:8:32:8.0:13.0:3000:165.0:12990:7:2
+30:Htc:Taiwan:U ultra:Nougat:5.2:Quad-core:Mali-T880 MP4:3.0:32:256:8.0:12.0:3000:144.0:47990:14:2
